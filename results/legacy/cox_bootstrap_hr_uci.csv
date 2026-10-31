@@ -1,0 +1,12 @@
+covariate,HR,boot_CI_low,boot_CI_high,share_boot_HR_gt_1
+ejection_fraction,0.6055,0.4198,0.7825,0.0
+sex,0.7677,0.4434,1.2862,0.153
+serum_sodium,0.8642,0.6541,1.1133,0.106
+platelets,0.9594,0.7493,1.1982,0.337
+creatinine_phosphokinase,1.1079,0.8578,1.4279,0.777
+diabetes,1.1544,0.7018,1.8098,0.682
+smoking,1.2318,0.7093,2.1525,0.779
+serum_creatinine,1.5471,1.2479,2.0023,1.0
+anaemia,1.5951,1.0185,2.5967,0.979
+high_blood_pressure,1.6562,1.078,2.6804,0.993
+age,1.6734,1.3248,2.2722,1.0

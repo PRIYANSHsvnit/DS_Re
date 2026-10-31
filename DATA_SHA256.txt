@@ -1,0 +1,4 @@
+sha256  file
+6869118b4892e7d641d9ac26f57eafcdf3d67913c3bee9edc0afa77318f1bc39  data/heart_failure_clinical_records_dataset.csv
+79621945edf2a5c8dc36359684ff356d3c6025e773ba4fefac26f865f7894c78  data/support2.csv
+58c09463aaa2ea05f02a4bb03a2f5a944f8756f6821477e364d07d817fb479f0  data/cardiovascular_hf_dataset-3.csv

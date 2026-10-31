@@ -1,0 +1,15 @@
+# Tested environment for new paired, lineage, SUPPORT-bootstrap and 50k analyses.
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.9.1
+imbalanced-learn==0.14.2
+scikit-survival==0.28.0
+joblib==1.6.0
+matplotlib==3.11.2
+statsmodels==0.15.0
+python-docx==1.2.0
+typst==0.15.0
+# Used by the legacy factorial/survival benchmarks; exact original versions were not recorded.
+xgboost==3.2.0
+lifelines==0.30.3

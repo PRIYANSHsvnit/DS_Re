@@ -1,0 +1,9 @@
+pipeline,acc_mean,acc_p95,acc_max,auc_mean,auc_p95,auc_max
+"RF 500 trees, class weights",0.7402,0.8,0.8556,0.7827,0.8485,0.8847
+"RF 500 trees, no resampling",0.7382,0.8,0.8667,0.7881,0.8514,0.8999
+Logistic regression,0.7337,0.7889,0.8333,0.7617,0.8384,0.9056
+"RF (paper params), no resampling",0.7367,0.7889,0.8444,0.7829,0.8474,0.9062
+"RF (paper params), SMOTE in training only",0.7258,0.7889,0.8556,0.768,0.8332,0.8932
+SVM (RBF),0.7234,0.7778,0.8111,0.7596,0.8276,0.8722
+XGBoost (default),0.7213,0.7778,0.8333,0.733,0.8044,0.8485
+MOST FAVOURABLE (reference),0.7402,0.8,0.8667,0.7881,0.8514,0.9062

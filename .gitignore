@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+Thumbs.db
+~$*
+# Data retained locally, but not included in a public Git commit.
+/data/support2.csv
+/data/cardiovascular_hf_dataset-3.csv
+/results/legacy/literature/corpus_all_citing.csv
+/results/support_bootstrap/predictions.csv
+/smoke_results/
