@@ -5,9 +5,13 @@ __pycache__/
 .DS_Store
 Thumbs.db
 ~$*
-# Data retained locally, but not included in a public Git commit.
+
+# Local research data: public redistribution rights have not been established.
 /data/support2.csv
 /data/cardiovascular_hf_dataset-3.csv
-/results/legacy/literature/corpus_all_citing.csv
+
+# Patient-level external predictions, local experiments, and generated Word files.
 /results/support_bootstrap/predictions.csv
 /smoke_results/
+/paper/Research_Paper_IEEE_Draft.pdf
+/paper/Research_Paper_IEEE_Editable.docx

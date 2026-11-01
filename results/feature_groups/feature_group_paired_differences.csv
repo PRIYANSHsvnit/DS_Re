@@ -1,0 +1,9 @@
+split,comparison,auroc_difference,ci_low,ci_high,bootstraps
+Random 80/20,"Plus labs, ECG and echo minus comorbidities and vitals",0.023608317720800076,0.020433861751848286,0.026777358990621024,500
+Random 80/20,All candidate predictors minus comorbidities and vitals,0.039049803094613256,0.035090785906181796,0.04281447184631371,500
+Held out: Annual_Checkup,"Plus labs, ECG and echo minus comorbidities and vitals",0.02761962933507167,0.024849135286321662,0.03011631426888379,500
+Held out: Annual_Checkup,All candidate predictors minus comorbidities and vitals,0.04288795040728588,0.03939654579475259,0.04567106655372453,500
+Held out: Hospital_Inpatient,"Plus labs, ECG and echo minus comorbidities and vitals",0.023745647682530402,0.02142065563509205,0.026421439381237324,500
+Held out: Hospital_Inpatient,All candidate predictors minus comorbidities and vitals,0.039609558620274155,0.036410762040173156,0.04309376244594739,500
+Held out: Preventive_Cardiology,"Plus labs, ECG and echo minus comorbidities and vitals",0.02396757974745245,0.02169401521802275,0.02635046259437714,500
+Held out: Preventive_Cardiology,All candidate predictors minus comorbidities and vitals,0.037372352089301564,0.03490485606176857,0.04019420483222751,500

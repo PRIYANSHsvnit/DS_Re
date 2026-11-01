@@ -12,6 +12,8 @@ The working folder contains a local copy of the publicly available SUPPORT2 CSV 
 
 `data/cardiovascular_hf_dataset-3.csv` is present in the prepared local folder but Git-ignored. A public [Hugging Face dataset card](https://huggingface.co/datasets/Auric-Grid/E1.L1-Cardiovascular-Heart-Failure-Risk-Prediction) gives the same filename, dimensions, and source counts; access to the data is gated and no byte-level match was established. The card states “synthetic or de-identified”, which does not establish which description applies. Its redistribution license and the origin of the local copy are not verified. Do not commit it until the owner confirms reuse and redistribution rights. The audit cannot establish provenance.
 
+The original workspace contained a second CSV with a different byte hash. A comparison on 1 November 2026 found identical row and column order and parsed values for all 50,000 rows and 68 columns. `DATA_SHA256.txt` records the local file versions used in this prepared repository; two files are ignored by Git and must be separately obtained after cloning.
+
 ## Literature metadata
 
 OpenAlex search results, screened study metadata and AI-assisted abstract coding are incomplete and require independent verification. Reconstructed full abstracts are excluded from a public commit because their reuse terms may differ. Do not add article PDFs or gated source material without permission.

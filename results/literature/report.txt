@@ -1,6 +1,0 @@
-Screening records: 209
-Included 299-row studies: 0
-Complete cases for regression: 0
-Flags must be supported by full-text quotations and page numbers in FT_notes.
-Associations are observational; differences in validation and selection may confound them.
-Regression not estimated: fewer than 10 complete studies or a flag has no variation.
